@@ -27,7 +27,7 @@ To run this project, make sure you have Xcode installed on your machine.
    
 Open the project in Xcode:
 
-```bash
+``bash
 Copy code
 cd Todoey
 open Todoey.xcodeproj
