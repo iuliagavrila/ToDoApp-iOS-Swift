@@ -30,7 +30,9 @@ bash
 Copy code
 cd Todoey
 open Todoey.xcodeproj
+
 Build and run the project using Xcode.
+
 
 Screenshots
 <img width="370" alt="Screenshot 2024-01-17 at 01 27 22" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/c721f338-af34-47ff-bafb-9c3f9ff1dd3e">
