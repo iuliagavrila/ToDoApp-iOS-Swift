@@ -33,13 +33,11 @@ open Todoey.xcodeproj
 Build and run the project using Xcode.
 
 Screenshots
-<img width="370" alt="Screenshot 2024-01-17 at 01 26 41" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/b864622a-0a2b-40b6-8933-07234e137610">
-<img width="370" alt="Screenshot 2024-01-17 at 01 27 02" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/7003a51b-324f-4bb6-849d-67bc153da181">
 <img width="370" alt="Screenshot 2024-01-17 at 01 27 22" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/c721f338-af34-47ff-bafb-9c3f9ff1dd3e">
 <img width="370" alt="Screenshot 2024-01-17 at 01 27 40" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/cbf5ca30-7c5e-4772-abc4-011ac265d9e6">
 <img width="370" alt="Screenshot 2024-01-17 at 01 27 49" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/816ac3e3-5629-4280-a1be-e1dfb0632ab7">
-
-
+<img width="370" alt="Screenshot 2024-01-17 at 01 27 02" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/7003a51b-324f-4bb6-849d-67bc153da181">
+<img width="370" alt="Screenshot 2024-01-17 at 01 26 41" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/b864622a-0a2b-40b6-8933-07234e137610">
 
 How to Contribute
 If you would like to contribute to this project, please follow these steps:
