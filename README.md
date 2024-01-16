@@ -27,10 +27,10 @@ To run this project, make sure you have Xcode installed on your machine.
    
 Open the project in Xcode:
 
--bash
--Copy code
--cd Todoey
--open Todoey.xcodeproj
+bash
+Copy code
+cd Todoey
+open Todoey.xcodeproj
 
 Build and run the project using Xcode.
 
