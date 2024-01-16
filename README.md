@@ -39,7 +39,7 @@ Screenshots
 <img width="370" alt="Screenshot 2024-01-17 at 01 27 02" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/7003a51b-324f-4bb6-849d-67bc153da181">
 <img width="370" alt="Screenshot 2024-01-17 at 01 26 41" src="https://github.com/iuliagavrila/ToDoApp-iOS-Swift/assets/35526560/b864622a-0a2b-40b6-8933-07234e137610">
 
-How to Contribute
+## How to Contribute
 If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -47,8 +47,9 @@ Create a new branch (git checkout -b feature/new-feature).
 Make changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a pull request.
-License
+
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 Thanks to Angela Yu for the inspiration and guidance.
